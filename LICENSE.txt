@@ -1,0 +1,38 @@
+Aurora Public License v1.0 
+(APL-1.0) 
+Last Updated: March 2026 --- 
+Overview 
+Aurora is an open-source Discord bot developed by PixieSidequest. This license ensures that Aurora remains free, collaborative, and accessible while preventing commercial exploitation and corporate control. 
+
+Permissions 
+→ Use – You can run Aurora on your server. 
+→ Modify – You can modify Aurora’s code for personal or community use. 
+→ Share – You can distribute modified versions as long as they remain open-source and credit to PixieSidequest is given. 
+→ Contribute – Submission of improvements to the project is encouraged to help Aurora evolve. 
+
+Restrictions 
+→ No Monetization of Any Kind – Aurora and any of its derivatives cannot be sold, monetized, placed behind paywalls, or used in any commercial capacity. This includes: Paid services (charging users for access). Advertising-based models (placing Aurora’s code behind ad-driven platforms). Enterprise licensing (corporations using modified versions for profit). Corporate-backed modifications (any company attempting to claim ownership). 
+→ No Closed-Source Forks – Any modifications or distributions must remain open-source under this same APL-1.0 license. 
+→ No Misrepresentation – You cannot claim authorship of Aurora. Any distribution must credit PixieSidequest as the original creator. 
+→ No Malicious Use – You cannot modify Aurora for harmful, illegal, or unethical purposes. 
+
+Requirements for Distribution & Contributions 
+Community Stewardship - 
+
+PixieSidequest does not claim ownership over individual contributions. By contributing, you help shape the future of Aurora. This project remains community-driven and accountable to its mission. 
+
+Public Access: Any modifications or forks must be open-source and use the same APL-1.0 license. 
+
+Attribution: Include the following notice in modified versions: 
+
+→ Based on Aurora by PixieSidequest, licensed under APL-1.0.
+
+License Retention: This license must remain intact in all copies or forks.
+
+Liability & Warranty Disclaimer 
+→ Products are provided "as is", without warranty of any kind. PixieSidequest is not liable for any damages, data loss, or misuse of its products.
+
+Future Changes to Licensing 
+PixieSidequest and its community may collectively release future versions of APL, but any project using APL-1.0 is permanently locked to these terms unless the original author explicitly grants permission to change licenses. 
+
+

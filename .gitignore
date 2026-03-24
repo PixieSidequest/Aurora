@@ -1,0 +1,16 @@
+# Ignore environment variables
+.env
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore VS Code settings (if applicable)
+.vscode/
+
+#Ignore json (these will automatically create when you make your bot) 
+fishing_data.json
