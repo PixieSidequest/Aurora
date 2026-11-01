@@ -3,6 +3,7 @@ import asyncio
 import discord
 import yt_dlp
 import requests
+import shlex
 from dotenv import load_dotenv
 from discord.ext import commands
 from discord import app_commands
